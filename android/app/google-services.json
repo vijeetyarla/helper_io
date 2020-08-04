@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "383432089230",
+    "firebase_url": "https://helperio.firebaseio.com",
+    "project_id": "helperio",
+    "storage_bucket": "helperio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383432089230:android:8c1a06f29c7a16405af3df",
+        "android_client_info": {
+          "package_name": "com.vyd.helperio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383432089230-g6hapq7pau3949ah48abqlalidkk87dc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3hmDcpWhDca6b5yM3cwfBkgmE0iICFBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383432089230-g6hapq7pau3949ah48abqlalidkk87dc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
